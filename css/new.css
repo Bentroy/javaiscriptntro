@@ -1,0 +1,13 @@
+h1{
+    font-weight: 600;
+    background-color: aquamarine;
+    padding: 1 rem;
+    text-align: center;
+
+}
+
+body{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
